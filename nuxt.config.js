@@ -12,5 +12,6 @@ export default theme({
       name: 'Nederlands'
     }],
     defaultLocale: 'nl',
+    langDir: "i18n/"
   },
 })
