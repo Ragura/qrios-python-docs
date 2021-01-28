@@ -1,4 +1,4 @@
-# python-docs
+# qrios-python-docs
 
 ## Setup
 
